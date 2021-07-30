@@ -1,0 +1,12 @@
+INICIE SEU PROJETO PELO TERMINAL
+npx create-react-app practice --template=typescript
+
+RODE SEU PROJETO | PORTA PADRÃO localhot:3000
+yarn start
+
+LIMPE SEU PROJETO
+src > deixar App.tsx; index.tsx
+public > LIMPAR COMENTS EM index.html
+public > LIMPAR img
+
+
