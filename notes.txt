@@ -9,4 +9,6 @@ src > deixar App.tsx; index.tsx
 public > LIMPAR COMENTS EM index.html
 public > LIMPAR img
 
-
+CRIA DIRETÓRIOS EM SRC
+components | reutilizáveis
+view | spa
