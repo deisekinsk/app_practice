@@ -12,3 +12,14 @@ public > LIMPAR img
 CRIA DIRETÓRIOS EM SRC
 components | reutilizáveis
 view | spa
+
+INSTALAR O STYLED COMPONENTS 
+yarn add styled-components
+
+TIPAR
+yarn add @types/styled-components -D
+
+INSTALAR JSON
+yarn add json-server -D
+
+
